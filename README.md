@@ -1,4 +1,4 @@
-# client
+# Song Playlist App with Vue and Node
 
 ## Project setup
 ```
